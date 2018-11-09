@@ -1,1 +1,16 @@
-/foo/* http://farewell-app.herokuapp.com/rewrite/:splat 200
+/foo/*   http://farewell-app.herokuapp.com/rewrite/:splat 200
+
+/admin/* http://gakusei2019.kaigojob.com/admin/:splat 200
+/mypage/* http://gakusei2019.kaigojob.com/mypage/:splat 200
+/users/* http://gakusei2019.kaigojob.com/users/:splat 200
+/ckeditor/* http://gakusei2019.kaigojob.com/ckeditor/:splat 200
+/policies/* http://gakusei2019.kaigojob.com/policies/:splat 200
+/licenses/* http://gakusei2019.kaigojob.com/licenses/:splat 200
+/posts/* http://gakusei2019.kaigojob.com/posts/:splat 200
+/favorite_posts/* http://gakusei2019.kaigojob.com/favorite_posts/:splat 200
+/events/* http://gakusei2019.kaigojob.com/events/:splat 200
+/event_entries/* http://gakusei2019.kaigojob.com/event_entries/:splat 200
+/event_reports/* http://gakusei2019.kaigojob.com/event_reports/:splat 200
+/self_analyses/* http://gakusei2019.kaigojob.com/self_analyses/:splat 200
+
+/* http://gakusei2019.kaigojob.com/:splat 200
