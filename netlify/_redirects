@@ -14,3 +14,4 @@
 /self_analyses/* http://gakusei2019.kaigojob.com/self_analyses/:splat 200
 
 /* http://gakusei2019.kaigojob.com/:splat 200
+/ http://gakusei2019.kaigojob.com/ 200
