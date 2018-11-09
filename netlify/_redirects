@@ -1,1 +1,1 @@
-/foo/* http://farewell-app.herokuapp.com/nursepress 200
+/foo/* http://farewell-app.herokuapp.com/rewrite/:splat 200
